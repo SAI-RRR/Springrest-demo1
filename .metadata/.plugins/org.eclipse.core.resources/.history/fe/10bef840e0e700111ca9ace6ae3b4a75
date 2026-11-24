@@ -1,0 +1,13 @@
+package com.wipro.rest1;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class SpringrestDemo1Application {
+
+	public static void main(String[] args) {
+		SpringApplication.run(SpringrestDemo1Application.class, args);
+	}
+
+}

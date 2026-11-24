@@ -1,0 +1,5 @@
+package com.wipro.rest1.controller;
+
+public class HelloController {
+
+}
